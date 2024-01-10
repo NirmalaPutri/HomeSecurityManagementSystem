@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "288023014243",
+    "firebase_url": "https://securityapp-firebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "securityapp-firebase",
+    "storage_bucket": "securityapp-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288023014243:android:6f0c1d8a07074fab864156",
+        "android_client_info": {
+          "package_name": "com.example.security_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPYQx6eRCnjb0gIVsnYOrolOeDlSfptt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
