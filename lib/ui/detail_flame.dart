@@ -44,7 +44,7 @@ class _DetailFlameState extends State<DetailFlame> {
       appBar: AppBar(
         title: Text('Flame Chart',
             style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
-        backgroundColor: Color(0xFF1C2321),
+        backgroundColor: Color.fromARGB(255, 78, 114, 91),
         iconTheme: IconThemeData(color: Colors.white),
       ),
       body: Padding(
